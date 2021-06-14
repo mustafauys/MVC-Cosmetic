@@ -1,0 +1,174 @@
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.deps.json
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.json
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.dev.json
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.dll
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.pdb
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.dll
+D:\Visual Studio Projects\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csprojAssemblyReference.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfo.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.input.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.output.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorCoreGenerate.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.dll
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.pdb
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.genruntimeconfig.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CopyComplete
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanEkle.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\BenimMekanlar.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanGuncelle.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\MekanDetay.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\_YorumEkle.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\KategoriMenu\Default.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UzaklikMenu\Default.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\Kategori.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanUzaklik.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Benzer\Default.cshtml.g.cs
+D:\Visual Studio Projects\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.deps.json
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.json
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.dev.json
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.dll
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.pdb
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.dll
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csprojAssemblyReference.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfoInputs.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfo.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CoreCompileInputs.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.input.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.output.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorCoreGenerate.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\MekanDetay.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\_YorumEkle.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\BenimMekanlar.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\Kategori.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanEkle.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanGuncelle.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanUzaklik.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Benzer\Default.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\KategoriMenu\Default.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UzaklikMenu\Default.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.dll
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.pdb
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.genruntimeconfig.cache
+C:\Users\muzos\OneDrive\Masaüstü\Masaüstü\YazilimStaj2020\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CopyComplete
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.deps.json
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.json
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.dev.json
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.dll
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.pdb
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.dll
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfo.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.input.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.output.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorCoreGenerate.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\MekanDetay.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\_YorumEkle.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\BenimMekanlar.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\Kategori.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanEkle.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanGuncelle.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanUzaklik.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Benzer\Default.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\KategoriMenu\Default.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UzaklikMenu\Default.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.dll
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.pdb
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.genruntimeconfig.cache
+C:\Users\musta\Desktop\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CopyComplete
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.deps.json
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.json
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.runtimeconfig.dev.json
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.dll
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.pdb
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.dll
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\bin\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.AssemblyInfo.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorAssemblyInfo.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.input.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.TagHelpers.output.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorCoreGenerate.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\MekanDetay.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\_YorumEkle.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\BenimMekanlar.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\Kategori.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanEkle.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanGuncelle.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Mekan\MekanUzaklik.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Benzer\Default.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\KategoriMenu\Default.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UzaklikMenu\Default.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.Views.pdb
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.dll
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.pdb
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.genruntimeconfig.cache
+C:\Users\musta\Desktop\Masaüstü\myScoreApp\myScoreApp\obj\Debug\netcoreapp2.1\myScoreApp.csproj.CopyComplete

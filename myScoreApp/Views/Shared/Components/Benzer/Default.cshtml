@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Mekan>
+@foreach (var item in Model.Where(x => x.CatName ==ViewBag.MekanCat && x.mekanId != ViewBag.MekanID).Take(4))
+{
+
+    
+<div class="col-md-3 col-sm-6 mb-4">
+    <h5>@item.UrunAdi</h5>
+    <a href="~/@item.user/mekan/@item.mekanId">
+        <img class="img-fluid" src="~/img/mekan/@item.mekanResim" alt="" width="250" height="250">
+    </a>
+</div>
+}

@@ -1,0 +1,165 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model myScoreApp.Models.Mekan
+@{
+    ViewData["Title"] = "Ürün Detay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{int j = 0;}
+@{int k = 0;}
+@foreach (var c in Model.MainComments)
+{
+    j++;
+    foreach (var sc in c.subComments)
+    {
+        k++;
+    }
+}
+@{
+    int toplamYorum = j;
+    int toplamYanit = k;
+}
+<h2>Ürün Detay</h2>
+<div class="container">
+    <h1 class="my-4">
+        @Html.DisplayFor(model => model.UrunAdi) >
+        <small>@Html.DisplayFor(model => model.CatName)</small>
+    </h1>
+    <div class="row">      
+        <div class="col-md-8">
+            <img class="img-fluid" src="~/img/mekan/@Html.DisplayFor(model => model.mekanResim)" alt="" width="250" height="225"> 
+        </div>
+        <div class="col-md-4">
+            <h3 class="my-3">Ürün Açıklaması</h3>
+            <p>@Html.DisplayFor(model => model.urunAciklamasi)</p>
+            <h3 class="my-3">Ürün Detayları</h3>
+            <ul>
+                <li>
+                    Oluşturulma Tarihi ve Saati:
+                    <p style="color:green; font-weight:bold;"> @Html.DisplayFor(model => model.tarih)</p>
+                </li>
+                <li>
+                    Fiyat:
+                    <p style="color:darkseagreen; font-weight:bold;"> @Html.DisplayFor(model => model.Fiyat)</p>
+                </li>
+                <li>
+                    Ürün Stok:
+                    <p style="color:lightseagreen; font-weight:bold;"> @Html.DisplayFor(model => model.urunStok)</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<hr />
+<style>
+    .card-inner {
+        margin-left: 4rem;
+        background-color: #efefef;
+    }
+</style>
+<div>
+    <div class="container">
+        <h2 class="text-center">Yorumlar(@toplamYorum)</h2>
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    @{
+                        await Html.RenderPartialAsync("_YorumEkle", new YorumViewModel() { mekanId = Model.mekanId, MainCommentId = 0 });
+                    }
+                    <div class="col-12">
+                        @{int i = 0;}
+                        @foreach (var comment in Model.MainComments)
+                        {
+                            <div class="col-md-10" style="border:1px solid grey;">
+                                <p>
+                                    <a href="#">
+                                        @if (comment.UserName != null)
+                                        {
+                                            <strong>@comment.UserName</strong>
+
+                                        }
+                                        else
+                                        {<strong>Misafir Kullanıcı</strong>}
+                                    </a>
+                                    adlı kullanıcı -
+                                    Tarih ve Saat:@comment.Created
+                                </p>
+                                <div class="clearfix"></div>
+                                <p>@comment.Message</p>
+                                @{
+                                    if (SignInManager.IsSignedIn(User))
+                                    {
+                                        if (User.Identity.Name == comment.UserName)
+                                        {
+                                            <a asp-controller="Home" asp-action="YorumSil" asp-route-id="@comment.Id" style="color:red;">Sil</a>
+                                        }
+                                    }
+                                }
+                                <div class="panel-group" id="accordion_@i">
+                                    <div class="panel panel-default" id="panel_@i">
+                                        <div class="panel-heading">
+                                            <h4 class="panel-title">
+                                                <a data-toggle="collapse" data-target="#collapseOne_@i" href="#collapseOne_@i" style="font-size:15px">
+                                                    Yanıtla
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id="collapseOne_@i" class="panel-collapse collapse in">
+                                            <div class="panel-body">
+                                                @{
+                                                    await Html.RenderPartialAsync("_YorumEkle", new YorumViewModel() { mekanId = Model.mekanId, MainCommentId = comment.Id });
+                                                }
+                                                @foreach (var item in comment.subComments)
+                                                {
+                                                    <div class="card card-inner">
+                                                        <div class="card-body">
+                                                            <div class="row">
+                                                                <div class="col-md-10">
+                                                                    <p>
+                                                                        <a href="#">
+                                                                            @if (item.UserName != null)
+                                                                            {
+                                                                                <strong>@item.UserName</strong>
+
+                                                                            }
+                                                                            else
+                                                                            {<strong>Misafir Kullanıcı</strong>}
+                                                                        </a> @item.Created
+                                                                    </p>
+                                                                    <p> @item.Message</p>
+                                                                    @{
+                                                                        if (SignInManager.IsSignedIn(User))
+                                                                        {
+                                                                            if (User.Identity.Name == item.UserName)
+                                                                            {
+                                                                                <a asp-controller="Home" asp-action="AltYorumSil" asp-route-id="@item.Id" style="color:red;">Sil</a>
+                                                                            }
+                                                                        }
+
+                                                                    }
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br />
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr />
+                            i++;
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<h3 class="my-4">Benzer Ürünler</h3>
+<div class="row">
+    @await Component.InvokeAsync("Benzer")
+</div>
+

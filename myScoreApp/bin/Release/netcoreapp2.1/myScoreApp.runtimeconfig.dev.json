@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\muzos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\muzos\\.nuget\\packages"
+    ]
+  }
+}

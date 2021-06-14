@@ -1,0 +1,72 @@
+﻿@model IEnumerable<myScoreApp.Models.Mekan>
+
+@{
+    ViewData["Title"] = "BenimMekanlar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Toplam Ürünler</h2>
+
+<p>
+    <a asp-action="MekanEkle" asp-controller="Mekan">Yeni Ürün Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CatName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fiyat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.urunAciklamasi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.urunStok)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mekanResim)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tarih)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CatName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fiyat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UrunAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.urunAciklamasi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.urunStok)
+            </td>
+            <td>
+                <img src="~/img/mekan/@item.mekanResim" width="50" height="50">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tarih)
+            </td>
+            <td>
+                <a asp-action="MekanGuncelle" asp-route-id="@item.mekanId">Düzenle</a> |
+                |
+                <a asp-action="MekanSil" asp-route-id="@item.mekanId">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

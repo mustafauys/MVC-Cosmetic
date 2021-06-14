@@ -1,0 +1,13 @@
+﻿<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Uzaklıklar
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        @foreach (var item in Model)
+        {
+            <a class="dropdown-item" href="~/Mekan/MekanUzaklik/@item.mekanUzaklikAdi">@item.mekanUzaklikAdi</a>
+        }
+
+
+    </div>
+</li>

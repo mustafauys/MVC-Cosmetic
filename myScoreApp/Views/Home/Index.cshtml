@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Mekan> 
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    .card-title {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+</style>
+<div class="row  d-flex justify-content-between">
+      @foreach (var item in Model)
+      {
+      <div class="card " style="width: 18rem; margin-bottom:30px;">
+          <img class="card-img-top" src="~/img/mekan/@item.mekanResim" alt="Card image cap" width="500" height="275">
+          <div class="card-body">
+              <h4  class="card-title"><a href="/@item.user/mekan/@item.mekanId">@item.UrunAdi</a></h4>
+              <h5><span class="badge badge-warning" style="color:darkred">@item.CatName</span></h5>
+              <a href="/@item.user/mekan/@item.mekanId" class="btn btn-primary">Detaylı Gör</a>
+          </div>
+      </div>
+      }
+</div>

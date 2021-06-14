@@ -1,0 +1,64 @@
+﻿@model myScoreApp.Models.Mekan
+
+@{
+    ViewData["Title"] = "MekanaEkle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ürün Ekle</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="MekanEkle" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CatName" class="control-label">Kategori:</label>
+                <select id="Select1" asp-items="@ViewBag.CatName" asp-for="CatName" class="form-control">
+                </select>
+                <span asp-validation-for="CatName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiyat" class="control-label">Fiyat:</label>
+                <input asp-for="Fiyat" class="form-control" placeholder="Fiyat Giriniz" />
+                <span asp-validation-for="Fiyat" class="text-danger"></span>
+
+
+
+            </div>
+            <div class="form-group">
+                <label asp-for="UrunAdi" class="control-label">Ürün Adı Giriniz:</label>
+                <input asp-for="UrunAdi" class="form-control" placeholder="Ürünün Adını Giriniz:" />
+                <span asp-validation-for="UrunAdi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="urunAciklamasi" class="control-label">Ürün Açıklaması Giriniz:</label>
+                <input asp-for="urunAciklamasi" class="form-control" placeholder="Ürünün Açıklamasını Giriniz." />
+                <span asp-validation-for="urunAciklamasi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="urunStok" class="control-label">Ürün Stok Sayısı Giriniz:</label>
+                <input asp-for="urunStok" class="form-control" placeholder="Ürünün Stok Sayısını Giriniz." />
+                <span asp-validation-for="urunStok" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mekanResim" class="control-label">Resim</label>
+                <input asp-for="mekanResim" type="file" class="form-control-file" id="exampleFormControlFile1">
+                <span asp-validation-for="mekanResim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tarih" class="control-label">Tarih:</label>
+                <input asp-for="tarih" class="form-control" />
+                <span asp-validation-for="tarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Oluştur" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Tüm Ürünlere Git</a>
+</div>
+

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Mekan>
+@{
+    ViewData["Title"] = "Uzaklık";
+}
+<div class="row  d-flex justify-content-between">
+    @foreach (var item in Model)
+    {
+        <div class="card " style="width: 18rem; margin-bottom:30px;">
+            <img class="card-img-top" src="~/img/mekan/@item.mekanResim" alt="Card image cap" width="500" height="300">
+            <div class="card-body">
+                <h5 class="card-title">@item.UrunAdi</h5>
+                <p class="card-text">@item.urunAciklamasi</p>
+                <a href="/@item.user/mekan/@item.mekanId" class="btn btn-primary">Detaylı Gör</a>
+            </div>
+        </div>
+    }
+</div>
